@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductsCatalog.Models", "ProductsCatalog.Models\ProductsCatalog.Models.csproj", "{F0A339A6-FDFE-4BC3-80F6-B93265F5A1A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductsCatalog.Data", "ProductsCatalog.Data\ProductsCatalog.Data.csproj", "{1B455226-0FFD-4EFD-A3D1-F2CD605BE409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductsCatalog.WebApi", "ProductsCatalog.WebApi\ProductsCatalog.WebApi.csproj", "{19B0D5A0-FE44-4B6F-BA0B-BC732907C406}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductsCatalog.Client", "ProductsCatalog.Client\ProductsCatalog.Client.csproj", "{8BFE4667-23FE-4DE0-A228-C4F5D2D56719}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tankovski.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ProductsCatalog.Data\\ProductsCatalog.Data.csproj
+		SccProjectName1 = ProductsCatalog.Data
+		SccLocalPath1 = ProductsCatalog.Data
+		SccProjectUniqueName2 = ProductsCatalog.Models\\ProductsCatalog.Models.csproj
+		SccProjectName2 = ProductsCatalog.Models
+		SccLocalPath2 = ProductsCatalog.Models
+		SccProjectUniqueName3 = ProductsCatalog.WebApi\\ProductsCatalog.WebApi.csproj
+		SccProjectName3 = ProductsCatalog.WebApi
+		SccLocalPath3 = ProductsCatalog.WebApi
+		SccProjectUniqueName4 = ProductsCatalog.Client\\ProductsCatalog.Client.csproj
+		SccProjectName4 = ProductsCatalog.Client
+		SccLocalPath4 = ProductsCatalog.Client
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0A339A6-FDFE-4BC3-80F6-B93265F5A1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A339A6-FDFE-4BC3-80F6-B93265F5A1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A339A6-FDFE-4BC3-80F6-B93265F5A1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A339A6-FDFE-4BC3-80F6-B93265F5A1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B455226-0FFD-4EFD-A3D1-F2CD605BE409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B455226-0FFD-4EFD-A3D1-F2CD605BE409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B455226-0FFD-4EFD-A3D1-F2CD605BE409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B455226-0FFD-4EFD-A3D1-F2CD605BE409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B0D5A0-FE44-4B6F-BA0B-BC732907C406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B0D5A0-FE44-4B6F-BA0B-BC732907C406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B0D5A0-FE44-4B6F-BA0B-BC732907C406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B0D5A0-FE44-4B6F-BA0B-BC732907C406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BFE4667-23FE-4DE0-A228-C4F5D2D56719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BFE4667-23FE-4DE0-A228-C4F5D2D56719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BFE4667-23FE-4DE0-A228-C4F5D2D56719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BFE4667-23FE-4DE0-A228-C4F5D2D56719}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

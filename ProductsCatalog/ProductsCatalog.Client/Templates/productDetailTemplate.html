@@ -1,0 +1,62 @@
+﻿        <div class="row" id="submit-container">
+            <form class="form-horizontal span12">
+
+                <fieldset>
+                    <legend>Product Details</legend>
+                    <br />
+                    <div class="row">
+                        <div class="col-lg-9">
+                            <div class="form-group">
+                                <label for="id" class="col-md-2 control-label">Id:</label>
+                                <div class="col-md-10">
+
+                                    <input id="id" name="Id" type="text" class="form-control"
+                                           disabled data-template-bind='[{"attribute": "value", "value": "Id"}]' />
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="name" class="col-md-2 control-label">Name:</label>
+                                <div class="col-md-10">
+
+                                    <input type="text" id="name" name="Name" value="" class="form-control" data-content="Name" 
+                                           data-template-bind='[{"attribute": "value", "value": "Name"}]' />
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="categoryId" class="col-md-2 control-label">Category:</label>
+                                <div class="col-md-10">
+
+                                    <select class="col-lg-1 form-control" id="categoryId">
+                                        
+                                    </select>
+                                </div>
+                            </div>
+
+
+                            <div class="form-group">
+                                <label for="description" class="col-md-2 control-label">Description:</label>
+                                <div class="col-md-10">
+                                    <textarea id="description" name="Description" class="form-control col-lg-6" rows="6" 
+                                              data-content="Description"></textarea>
+
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="col-lg-3">
+                            <div class="well">
+                                <p><img id="picture" width="90%" data-src="ImagePath" /></p>
+                                <p><input type='file' id="product-image" /></p>
+                            </div>
+                            <div class="pull-right">
+                                <a href="" class="btn btn-primary save" id="submit-button-products">Save</a>
+                                <a href="#" class="btn btn-danger btn-delete" data-entity="product">Delete</a>
+                            </div>
+                        </div>
+                    </div>
+                </fieldset>
+
+
+            </form>
+        </div>

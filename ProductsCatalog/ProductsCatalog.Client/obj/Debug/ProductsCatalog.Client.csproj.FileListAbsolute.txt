@@ -1,0 +1,6 @@
+E:\Repositories\ProductsCatalog\ProductsCatalog\ProductsCatalog.Client\bin\ProductsCatalog.Client.dll.config
+E:\Repositories\ProductsCatalog\ProductsCatalog\ProductsCatalog.Client\bin\ProductsCatalog.Client.dll
+E:\Repositories\ProductsCatalog\ProductsCatalog\ProductsCatalog.Client\bin\ProductsCatalog.Client.pdb
+E:\Repositories\ProductsCatalog\ProductsCatalog\ProductsCatalog.Client\obj\Debug\ProductsCatalog.Client.csprojResolveAssemblyReference.cache
+E:\Repositories\ProductsCatalog\ProductsCatalog\ProductsCatalog.Client\obj\Debug\ProductsCatalog.Client.dll
+E:\Repositories\ProductsCatalog\ProductsCatalog\ProductsCatalog.Client\obj\Debug\ProductsCatalog.Client.pdb

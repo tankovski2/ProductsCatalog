@@ -1,0 +1,118 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+a.plain:link
+{ color: #333; text-decoration: none }
+a.plain:active
+{ color: #333; text-decoration: none }
+a.plain:visited
+{ color: #333; text-decoration: none }
+a.plain:hover
+{ color: #333; text-decoration: none }
+
+.status-bar {
+    height: 60px;
+}
+
+.about-icon {
+    float: left;
+    margin-right: 12px;
+}
+
+input {
+    max-width:250px;
+}
+
+.caption {
+    position:relative;
+    height:200px;
+    overflow:hidden;
+
+}
+
+
+.caption {
+    position:relative;
+    height:200px;
+    overflow:hidden;
+
+}
+
+.caption .additional{
+   position:absolute;
+   bottom:0;
+   right:0;
+
+}
+
+
+/*SEARCH AUTOCOMPLETE*/
+
+/*#autocomplete {
+    margin: 0;
+    text-align: center;
+    width:100%;
+}
+
+
+   
+
+.ui-autocomplete {
+    margin: 0 !important;
+    padding: 0 !important;
+    color: black;
+    height: 85px;
+    font-family: "futura-pt", sans-serif;
+    box-shadow: none;
+    margin-bottom: 15%;
+    list-style: none;
+    cursor: pointer;
+}
+
+.ui-widget {
+    margin: 0;
+}
+
+
+
+
+.ui-autocomplete li {
+    margin: 0 0 1px 0;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    background-color: white;
+    border: 2px solid black;
+}
+
+    .ui-autocomplete li:hover {
+        text-decoration: underline;
+          background-color: black;
+          color:white;
+           border: 2px solid white;
+    }
+
+.btn > input {
+    font-size: 11px;
+  
+    margin-bottom: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+}*/
+.btn-block {
+    max-width:250px;
+}

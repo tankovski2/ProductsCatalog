@@ -1,0 +1,8 @@
+E:\Projects\ProductsCatalog\ProductsCatalog.Models\bin\Debug\ProductsCatalog.Models.dll
+E:\Projects\ProductsCatalog\ProductsCatalog.Models\bin\Debug\ProductsCatalog.Models.pdb
+E:\Projects\ProductsCatalog\ProductsCatalog.Models\obj\Debug\ProductsCatalog.Models.dll
+E:\Projects\ProductsCatalog\ProductsCatalog.Models\obj\Debug\ProductsCatalog.Models.pdb
+E:\Repositories\ProductsCatalog\ProductsCatalog\ProductsCatalog.Models\bin\Debug\ProductsCatalog.Models.dll
+E:\Repositories\ProductsCatalog\ProductsCatalog\ProductsCatalog.Models\bin\Debug\ProductsCatalog.Models.pdb
+E:\Repositories\ProductsCatalog\ProductsCatalog\ProductsCatalog.Models\obj\Debug\ProductsCatalog.Models.dll
+E:\Repositories\ProductsCatalog\ProductsCatalog\ProductsCatalog.Models\obj\Debug\ProductsCatalog.Models.pdb
