@@ -40,22 +40,22 @@ ProductsCatalogNS.httpRequester = (function () {
         return deferred.promise;
     }
 
-    function putJSON(serviceUrl, headers) {
+    function putJSON(serviceUrl, data, headers) {
         var deferred = Q.defer();
-            jQuery.ajax({
-                url: serviceUrl,
-                dataType: "json",
-                headers: headers,
-                type: "PUT",
-                contentType: "application/json",
-                data: JSON.stringify(data),
-                success: function (data) {
-                    deferred.resolve(data);
-                },
-                error: function (err) {
-                    deferred.reject(err);
-                }
-            });
+        jQuery.ajax({
+            url: serviceUrl,
+            dataType: "json",
+            headers: headers,
+            type: "POST",
+            contentType: "application/json",
+            data: JSON.stringify(data),
+            success: function (data) {
+                deferred.resolve(data);
+            },
+            error: function (err) {
+                deferred.reject(err);
+            }
+        });
 
         return deferred.promise;
     }
