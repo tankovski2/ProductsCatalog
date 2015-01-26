@@ -46,7 +46,7 @@ ProductsCatalogNS.httpRequester = (function () {
             url: serviceUrl,
             dataType: "json",
             headers: headers,
-            type: "POST",
+            type: "PUT",
             contentType: "application/json",
             data: JSON.stringify(data),
             success: function (data) {
